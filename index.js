@@ -1,2 +1,2 @@
-var resultado = 2 + 2
+var resultado = 1 + 1
 console.log(resultado)
