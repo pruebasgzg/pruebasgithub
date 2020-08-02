@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pruebasgit
 
 ## Project setup
@@ -23,7 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# pruebasgithub
-Pruebas de funcionalidades de GitHub
->>>>>>> df1b9e28e8f4a30a5ddccbb03f07975c7767a7c1
