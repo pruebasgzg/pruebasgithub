@@ -23,4 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
  
-contribucion de git@github.com:pruebasgzg/pruebasgithub.git
+contribucion de pruebasgzg
